@@ -1,0 +1,48 @@
+
+
+
+#main{
+display:block;
+background-image:url("carsbackground.jpg");
+text-align:center;
+background-repeat:no-repeat;
+background-size: cover;
+
+}
+.columns{
+	text-align:right;
+}
+.rowspacer{
+	height:15;
+}
+.colspacer{
+	width:60;
+}
+#seller0{
+	color: rgb(140, 28, 239);
+}
+#seller1{
+	color: blue;
+}
+
+#fuel0{
+	color: rgb(242, 89, 33);
+}
+#fuel1{
+	color: blue;
+}
+#fuel2{
+	color: blueviolet;
+}
+
+#trans0{
+	color:rgb(102, 51, 219);
+}
+#trans1{
+	color:rgb(102, 51, 219);
+}
+
+
+#Submitbutton{
+	background-color:skyblue;
+}
